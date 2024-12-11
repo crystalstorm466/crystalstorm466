@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**crystalstorm466/crystalstorm466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm crystalstorm466, a passionate Computer Science student at Kennesaw State University with a Minor in Music. I am a Child of God and have a strong interest in both technology and music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎓 Education: Computer Science major with a Minor in Music at Kennesaw State University.
+    💻 Operating Systems: Daily drive Fedora Linux and dual boot macOS.
+    🖥️🖥 Languages: C, Java, C#, Python.
+    🖥️ Favorite Language: C
+    🌟 Interests: Working on open source projects.
+
+"I can do all things through Christ who strengthens me." - Philippians 4:13
+
+Feel free to check out my projects and connect with me!
