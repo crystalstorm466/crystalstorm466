@@ -9,6 +9,6 @@ I'm crystalstorm466, a passionate Computer Science student at Kennesaw State Uni
     🖥️ Favorite Language: C
     🌟 Interests: Working on open source projects.
 
-"I can do all things through Christ who strengthens me." - Philippians 4:13
+"The heavens declare the glory of God, and the sky above proclaims his handiwork." - Psalms 19:1
 
 Feel free to check out my projects and connect with me!
