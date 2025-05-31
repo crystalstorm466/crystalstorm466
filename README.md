@@ -4,8 +4,8 @@
 I'm crystalstorm466, a passionate Computer Science student at Kennesaw State University with a Minor in Music. I am a Child of God and have a strong interest in both technology and music.
 
     🎓 Education: Computer Science major with a Minor in Music at Kennesaw State University.
-    💻 Operating Systems: Daily drive Fedora Linux and dual boot macOS.
-    🖥️🖥 Languages: C, Java, C#, Python.
+    💻 Operating Systems: Daily drive Fedora Linux and dual boot macOS. I also run Hyprland with Arch on my 2nd machine. 
+    🖥️🖥 Languages: C, Java, C++, Python.
     🖥️ Favorite Language: C
     🌟 Interests: Working on open source projects.
 
